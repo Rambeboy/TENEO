@@ -3,7 +3,7 @@
 ## Feature Bot
 - **Login**
 - **AutoLogin**
-- **Auto Ping (setiap 15 menit)**
+- **Auto Ping (every 15 minutes)**
 - **Support Proxy**
 ## Register Teneo
 - **Download [Ekstension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)**

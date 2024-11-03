@@ -1,6 +1,6 @@
 # TENEO AUTO FARMING POINT
 
-## Fitur Bot
+## Feature Bot
 - **Login**
 - **AutoLogin**
 - **Auto Ping (setiap 15 menit)**

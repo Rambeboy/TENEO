@@ -2,7 +2,7 @@
 
 ## Feature Bot
 - **Login**
-- **AutoLogin**
+- **Auto Login**
 - **Auto Ping (every 15 minutes)**
 - **Support Proxy**
 ## Register Teneo

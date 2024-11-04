@@ -7,9 +7,9 @@ const HttpsProxyAgent = require('https-proxy-agent');
 const chalk = require('chalk');
 
 console.log(chalk.cyan.bold(`==============================================`));
-console.log(chalk.cyan.bold(`    NODE             : TENEO BOT              `));
-console.log(chalk.cyan.bold(`    Created          : Nofan Rambe             `)); 
-console.log(chalk.cyan.bold(`    Github           : Rambeboy                `)); 
+console.log(chalk.cyan.bold(`=    NODE             : TENEO BOT            =`));
+console.log(chalk.cyan.bold(`=    Created          : Nofan Rambe          =`)); 
+console.log(chalk.cyan.bold(`=    Github           : Rambeboy             =`)); 
 console.log(chalk.cyan.bold(`==============================================`));
 
 let socket = null;
